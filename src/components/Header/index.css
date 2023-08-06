@@ -31,8 +31,8 @@
   align-self: flex-end;
   flex: 1;
   list-style-type: none;
-  margin-top: 0;
-  margin-bottom: 0;
+  /* margin-top: 0;
+  margin-bottom: 0; */
 }
 
 @media screen and (max-width: 767px) {
